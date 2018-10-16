@@ -1,7 +1,6 @@
 ## 抗 DNS 污染
 DOMAIN-KEYWORD,amazon,force-remote-dns
 DOMAIN-KEYWORD,google,force-remote-dns
-DOMAIN-SUFFIX,gstatic.com,force-remote-dns
 DOMAIN-KEYWORD,gmail,force-remote-dns
 DOMAIN-KEYWORD,youtube,force-remote-dns
 DOMAIN-KEYWORD,facebook,force-remote-dns
@@ -91,6 +90,7 @@ DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,eurekavpt.com
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
@@ -244,7 +244,7 @@ DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
-DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitch.tv,force-remote-dns
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,ubertags.com
@@ -254,8 +254,6 @@ DOMAIN-SUFFIX,ulyssesapp.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,v.gd
-DOMAIN-SUFFIX,v2ex.co
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vine.co
@@ -265,7 +263,6 @@ DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w3schools.com
-DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wikileaks.org

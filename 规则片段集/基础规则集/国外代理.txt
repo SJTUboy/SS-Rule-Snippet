@@ -3,7 +3,6 @@
 ## 抗 DNS 污染
 DOMAIN-KEYWORD,amazon,Proxy,force-remote-dns
 DOMAIN-KEYWORD,google,Proxy,force-remote-dns
-DOMAIN-SUFFIX,gstatic.com,Proxy,force-remote-dns
 DOMAIN-KEYWORD,gmail,Proxy,force-remote-dns
 DOMAIN-KEYWORD,youtube,Proxy,force-remote-dns
 DOMAIN-KEYWORD,facebook,Proxy,force-remote-dns
@@ -93,6 +92,7 @@ DOMAIN-SUFFIX,entrust.net,Proxy
 DOMAIN-SUFFIX,eurekavpt.com,Proxy
 DOMAIN-SUFFIX,evernote.com,Proxy
 DOMAIN-SUFFIX,fabric.io,Proxy
+DOMAIN-SUFFIX,fast.com,Proxy
 DOMAIN-SUFFIX,fastly.net,Proxy
 DOMAIN-SUFFIX,fc2.com,Proxy
 DOMAIN-SUFFIX,feedburner.com,Proxy
@@ -256,8 +256,6 @@ DOMAIN-SUFFIX,ulyssesapp.com,Proxy
 DOMAIN-SUFFIX,urchin.com,Proxy
 DOMAIN-SUFFIX,usertrust.com,Proxy
 DOMAIN-SUFFIX,v.gd,Proxy
-DOMAIN-SUFFIX,v2ex.co,Proxy
-DOMAIN-SUFFIX,v2ex.com,Proxy
 DOMAIN-SUFFIX,vimeo.com,Proxy
 DOMAIN-SUFFIX,vimeocdn.com,Proxy
 DOMAIN-SUFFIX,vine.co,Proxy
@@ -267,7 +265,6 @@ DOMAIN-SUFFIX,vsco.co,Proxy
 DOMAIN-SUFFIX,vultr.com,Proxy
 DOMAIN-SUFFIX,w.org,Proxy
 DOMAIN-SUFFIX,w3schools.com,Proxy
-DOMAIN-SUFFIX,weather.com,Proxy
 DOMAIN-SUFFIX,webtype.com,Proxy
 DOMAIN-SUFFIX,wikiwand.com,Proxy
 DOMAIN-SUFFIX,wikileaks.org,Proxy
